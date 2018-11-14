@@ -1,7 +1,7 @@
 # php-test-site demo projetct
 # Developed by sameera
 
-This project will cove
+This project will cover
 1. working with git process
 2. working with jenkins pipeline
 3. build and test app with Docker container
