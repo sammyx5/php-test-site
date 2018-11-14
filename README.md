@@ -1,5 +1,4 @@
-# php-test-site demo projetct
-# Developed by sameera
+# php-test-site demo project
 
 This project will cover
 1. working with git process
